@@ -20,7 +20,11 @@ O sistema apresenta um site institucional navegável, permitindo ao usuário ace
 
 # 🎯 Objetivo da Atividade
 Desenvolver um sistema web estruturado
+
 Aplicar conceitos de organização de diretórios
+
 Utilizar corretamente caminhos relativos
+
 Criar navegação entre páginas HTML
+
 Seguir um template padrão em todas as páginas
