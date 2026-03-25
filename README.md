@@ -2,8 +2,10 @@
 
 # 🖥️ Loja Virtual Dell
 # 📌 Informações do Projeto
-Alunas: Priscila de Carvalho Mendes        RA: 2171392511039
-          Caroline de Carvalho Mendes        RA: 2171392511041
+Alunas: Priscila de Carvalho Mendes & Caroline de Carvalho Mendes
+RA: 2171392511039
+RA: 2171392511041
+
 Professor: Vinicius Heltai Pacheco
 Matéria: Desenvolvimento Web III
 Curso: Desenvolvimento de Software Multiplataforma
