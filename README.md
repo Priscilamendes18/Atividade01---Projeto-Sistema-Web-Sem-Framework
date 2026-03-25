@@ -1,16 +1,13 @@
 # Atividade01---Projeto-Sistema-Web-Sem-Framework
 
 # 🖥️ Loja Virtual Dell
-# 📌 Informações do Projeto
+
 Alunas: Priscila de Carvalho Mendes & Caroline de Carvalho Mendes
 RA: 2171392511039
 RA: 2171392511041
 
 Professor: Vinicius Heltai Pacheco
 Matéria: Desenvolvimento Web III
-Curso: Desenvolvimento de Software Multiplataforma
-Faculdade: FATEC Diadema
-Data: 25/03/2026
 
 # 📖 Sobre o Projeto
 
@@ -26,11 +23,3 @@ Aplicar conceitos de organização de diretórios
 Utilizar corretamente caminhos relativos
 Criar navegação entre páginas HTML
 Seguir um template padrão em todas as páginas
-
-# 🚀 Funcionalidades
-Página inicial com navegação principal
-Página institucional ("Quem sou")
-Página de listagem de produtos
-Páginas individuais para cada produto
-Navegação entre páginas com links funcionais
-Organização de arquivos em diretórios
